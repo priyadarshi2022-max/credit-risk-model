@@ -34,7 +34,7 @@ This project implements machine learning models to assess **credit risk** using 
 - **Statistical Significance**: ANOVA across target classes
 
 ## 📂 Folder Structure
-
+```
 credit-risk-modelling/
 │
 ├── data/
@@ -50,3 +50,4 @@ credit-risk-modelling/
 ├── hyperparameters.csv
 ├── README.md
 └── requirements.txt
+```
